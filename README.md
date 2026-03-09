@@ -1,8 +1,8 @@
 # Hey, ich bin Benjamin 👋
 
-![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjitech&show_icons=true&title_color=FFD700&icon_color=20B2AA&text_color=ffffff&bg_color=0d1117&border_color=20B2AA)
+![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjiverse&show_icons=true&title_color=FFD700&icon_color=20B2AA&text_color=ffffff&bg_color=0d1117&border_color=20B2AA)
 
-![Ben's GitHub Streak](https://streak-stats.demolab.com?user=benjitech&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=20B2AA&dates=ffffff)
+![Ben's GitHub Streak](https://streak-stats.demolab.com?user=benjiverse&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=20B2AA&sideLabels=20B2AA&dates=ffffff)
 
 Seit über 10 Jahren halte ich in der IT die Dinge am Laufen – und das mit echter Leidenschaft. Als ITOps-Spezialist im Mittelstand kümmere ich mich tagtäglich um Support & Helpdesk, IT-Security und die Prozesse, die eine funktionierende IT erst möglich machen. Kein Glamour, aber genau das macht gute IT aus.
 
