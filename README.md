@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, ich bin Benjamin 👋
 
-<!--
-**benjiverse/benjiverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seit über 10 Jahren halte ich in der IT die Dinge am Laufen – und das mit echter Leidenschaft. Als ITOps-Spezialist im Mittelstand kümmere ich mich tagtäglich um Support & Helpdesk, IT-Security und die Prozesse, die eine funktionierende IT erst möglich machen. Kein Glamour, aber genau das macht gute IT aus.
 
-Here are some ideas to get you started:
+## 🛠️ Womit ich arbeite
+Dokumentation ist für mich kein lästiges Pflichtprogramm, sondern echtes Handwerk. Ob strukturierte Wissensdatenbanken in Obsidian, Netzwerkdiagramme in draw.io oder Projektplanung im Planner – ich glaube daran, dass saubere Doku das ganze Team besser macht.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📋 Was mich auszeichnet
+Ich bin zertifizierter AI-Consultant (TÜV), AEVO-geprüfter Ausbilder und Netzwerkadministrator (IHK). Diese Kombination spiegelt wider, was mir wichtig ist: technisches Handwerk, aber auch Wissen weitergeben und Menschen entwickeln.
+
+## 🤝 Warum ich hier bin
+Ich bin in der IT-Community aktiv und glaube daran, dass geteiltes Wissen alle weiterbringt. Auf GitHub findest du von mir Templates, Dokumentationsstrukturen und Ressourcen rund um ITOps – Dinge, die ich selbst gerne früher gehabt hätte. Schreib mich gerne an, ich freue mich über Austausch!
+
+**Benjamin Güntert**
