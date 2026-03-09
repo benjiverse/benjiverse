@@ -1,5 +1,7 @@
 # Hey, ich bin Benjamin 👋
 
+![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjitech&show_icons=true&title_color=FFD700&icon_color=20B2AA&text_color=ffffff&bg_color=0d1117&border_color=20B2AA)
+
 Seit über 10 Jahren halte ich in der IT die Dinge am Laufen – und das mit echter Leidenschaft. Als ITOps-Spezialist im Mittelstand kümmere ich mich tagtäglich um Support & Helpdesk, IT-Security und die Prozesse, die eine funktionierende IT erst möglich machen. Kein Glamour, aber genau das macht gute IT aus.
 
 ## 🛠️ Womit ich arbeite
