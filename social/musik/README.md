@@ -23,8 +23,8 @@ Musik aus diesem Ordner.**
 ## Regeln für den Einsatz
 
 1. **Startpunkt:** Immer ab Sekunde 0 schneiden (`-ss 0`). Die ersten 10 Sekunden jedes Stücks
-   hört Benny per Hörprobe gegen (Gesang ausgeschlossen?). Ein Stück, das er ablehnt, wird
-   aus diesem Ordner und aus der Tabelle gelöscht. Andere Startpunkte erst nach seiner Freigabe.
+   hat Benny am 24.11.2026 per Hörprobe geprüft: alle 8 Stücke freigegeben (kein Gesang,
+   passend). Andere Startpunkte erst nach seiner Freigabe.
 2. **Abwechslung:** Ein Stück höchstens einmal pro Woche und nicht in zwei Wochen hintereinander
    für dasselbe Format. Welches Stück lief, steht im Wochen-Tab (KW NN) des Konzept-Dokuments
    in der Zeile „Musik:“ je Reel.
